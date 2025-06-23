@@ -1,8 +1,21 @@
-# Striker
+⚡ **Striker** is a powerful and modular CLI toolkit designed for researchers, developers, and cybersecurity enthusiasts to analyze and audit blockchain address activity. It allows users to scrape the most active wallet addresses from public blockchain explorers and test private key combinations against them using high-speed brute-force scripts.
 
-⚡ **Striker** is a powerful CLI toolkit for scraping top crypto wallet addresses and performing high-speed private key brute-force checks across multiple blockchains (BTC, ETH, SOL, DOGE, LTC, DASH).
+The toolkit supports major networks including **Bitcoin (BTC)**, **Ethereum (ETH)**, **Solana (SOL)**, **Dogecoin (DOGE)**, **Litecoin (LTC)**, and **Dash (DASH)**. With a queue-based system, concurrency management, and `.bat` launcher support, Striker offers flexibility for both single-chain and multi-chain operations.
 
+> ⚠️ **Disclaimer**: Striker is intended for **educational**, **audit**, and **research** purposes only.  
+> 🚫 Attempting to access or use wallets that you do not own is illegal and unethical. The authors of this tool do **not** endorse or support any malicious use, and take no responsibility for misuse of this software.
+
+Use Striker to:
+- Audit the strength of your own private keys or mnemonic phrases.
+- Learn how brute-force and seed phrase security work.
+- Study address activity in real time across top blockchain networks.
+
+Make sure to comply with your local laws and only use this tool on assets you legally own or have permission to test.
 ---
+<h3 align="center">🚀 Work Example</h3>
+<p align="center">
+  <img src="https://i.imgur.com/eyOcxNP.png" alt="Work Example">
+</p>
 
 ##  Features
 
