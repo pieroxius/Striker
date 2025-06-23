@@ -45,6 +45,30 @@ The **Striker** repository is organized to ensure modularity and ease of use:
 This layout allows quick setup, testing, and extension to new chains with minimal adjustments.
 
 
+
+## 🚀 Striker Pro (Commercial Edition)
+<h3 align="center">🚀 Work Example</h3>
+<p align="center">
+  <img src="https://i.ibb.co/M5PSNv2B/Screenshot-2.png" alt="Work Example">
+</p>
+**Striker Pro** is a premium extended version of the Striker toolkit, supporting over **58 blockchains** including ADA, ATOM, DOT, KASPA, XTZ, XMR, and many others. Designed for high-performance private key brute-force attacks using **GPU acceleration** (local or via [Vast.ai](https://vast.ai)), it also supports **multi-GPU and multi-server clustering**.
+
+### Key Features:
+
+- 🔗 **Support for 40+ chains** including rare and non-EVM networks (Kaspa, ZEC, ZIL, SUI, CORE, INJ, etc.)
+- 📦 **300,000 top addresses per chain** — fully pre-indexed and ready to use
+- ⚡ **GPU acceleration (CUDA / OpenCL)** — run on your local GPU or scale with services like Vast.ai
+- 🧠 **Backed by SQLite** for efficient data filtering, indexing, and querying
+- 🖥️ **Native cluster mode** — distribute workloads across multiple GPUs or servers
+- 🧾 **Flexible support for wordlists, masks, and custom patterns**
+- 🤝 **Priority support** with onboarding help and integration assistance
+
+> 💬 **Pricing** depends on configuration, number of chains, and GPU requirements.  
+> 📩 **Contact for access or questions:**  
+> – Telegram: [@tyautyauni](https://t.me/tyautyauni)  
+> – X (Twitter): [@vi_lui40400](https://x.com/vi_lui40400)
+
+
 ## ⚙ Installation
 
 > ⚠️ Requires **Node.js 22.11.0 or higher**  
