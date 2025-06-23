@@ -1,0 +1,30 @@
+{
+  "name": "Striker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "GuiLui",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@solana/web3.js": "^1.98.2",
+    "axios": "^1.10.0",
+    "better-sqlite3": "^12.0.0",
+    "bip32": "^5.0.0-rc.0",
+    "bip39": "^3.1.0",
+    "bitcoinjs-lib": "^6.1.7",
+    "bs58": "^6.0.0",
+    "cheerio": "^1.1.0",
+    "ecpair": "^3.0.0",
+    "ethereumjs-util": "^7.1.5",
+    "ethereumjs-wallet": "^1.0.2",
+    "fastest-levenshtein": "^1.0.16",
+    "fs": "^0.0.1-security",
+    "puppeteer": "^24.10.1",
+    "tiny-secp256k1": "^2.2.4"
+  }
+}
