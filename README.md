@@ -1,3 +1,7 @@
+![Node.js](https://img.shields.io/badge/node-%3E=22.11.0-blue)
+![License: MIT](https://img.shields.io/badge/license-MIT-green)
+![Chains](https://img.shields.io/badge/chains-55%2B-blueviolet)
+
 ⚡ **Striker** is a powerful and modular CLI toolkit designed for researchers, developers, and cybersecurity enthusiasts to analyze and audit blockchain address activity. It allows users to scrape the most active wallet addresses from public blockchain explorers and test private key combinations against them using high-speed brute-force scripts.
 
 The toolkit supports major networks including **Bitcoin (BTC)**, **Ethereum (ETH)**, **Solana (SOL)**, **Dogecoin (DOGE)**, **Litecoin (LTC)**, and **Dash (DASH)**. With a queue-based system, concurrency management, and `.bat` launcher support, Striker offers flexibility for both single-chain and multi-chain operations.
@@ -55,7 +59,7 @@ This layout allows quick setup, testing, and extension to new chains with minima
 
 ### Key Features:
 
-- 🔗 **Support for 40+ chains** including rare and non-EVM networks (Kaspa, ZEC, ZIL, SUI, CORE, INJ, etc.)
+- 🔗 **Support for 55+ chains** including rare and non-EVM networks (Kaspa, ZEC, ZIL, SUI, CORE, INJ, etc.)
 - 📦 **300,000 top addresses per chain** — fully pre-indexed and ready to use
 - ⚡ **GPU acceleration (CUDA / OpenCL)** — run on your local GPU or scale with services like Vast.ai
 - 🧠 **Backed by SQLite** for efficient data filtering, indexing, and querying
