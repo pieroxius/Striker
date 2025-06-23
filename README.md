@@ -72,7 +72,10 @@ This layout allows quick setup, testing, and extension to new chains with minima
 > – Telegram: [@tyautyauni](https://t.me/tyautyauni)  
 > – X (Twitter): [@vi_lui40400](https://x.com/vi_lui40400)
 
-
+<h3 align="center">Result but i dont touch because not my(((</h3>
+<p align="center">
+  <img src="https://i.ibb.co/B5s5fqRz/Screenshot-6.png" alt="Work Example">
+</p>
 ## ⚙ Installation
 
 > ⚠️ Requires **Node.js 22.11.0 or higher**  
@@ -96,3 +99,5 @@ Clone the repository and install dependencies:
 git clone https://github.com/pieroxius/Striker.git
 cd Striker
 npm install
+
+
