@@ -47,7 +47,7 @@ This layout allows quick setup, testing, and extension to new chains with minima
 
 
 ## 🚀 Striker Pro (Commercial Edition)
-<h3 align="center">🚀 Work Example</h3>
+<h3 align="center"> Scripts Main</h3>
 <p align="center">
   <img src="https://i.ibb.co/M5PSNv2B/Screenshot-2.png" alt="Work Example">
 </p>
